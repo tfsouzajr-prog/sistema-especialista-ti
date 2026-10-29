@@ -7,8 +7,4 @@ Este projeto utiliza Python, Experta e Streamlit para atuar como um Consultor In
 - Experta (Motor de Inferência Baseado em Regras)
 - Streamlit (Interface Gráfica Web)
 
-## Como rodar o projeto localmente
-
-1. Clone este repositório para a sua máquina:
-   ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+git clone [https://github.com/tfsouzajr-prog/sistema-especialista-ti.git](https://github.com/tfsouzajr-prog/sistema-especialista-ti.git)
